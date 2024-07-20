@@ -1,0 +1,7 @@
+Backup completed at 20240720_002753
+tar: Removing leading `/' from member names
+Successfully backed up /etc at 20240720_003025
+tar: Removing leading `/' from member names
+Successfully backed up /home at 20240720_003025
+/var/www does not exist, skipping
+Backup completed at 20240720_003025
